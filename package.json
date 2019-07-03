@@ -1,5 +1,5 @@
 {
-  "name": "static",
+  "name": "Civic Vision Template",
   "version": "1.0.0",
   "description": "This is a static template with no bundling",
   "main": "index.html",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/codesandbox-app/static-template/issues"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme"
+  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "dependencies": {
+    "d3": "^5.9.7"
+  }
 }
